@@ -1,4 +1,4 @@
-# Projeto Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de cerveja
+# Projeto Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoque de cerveja
 
 ## API feita na plataforma Digital Innovation One para o Bootcamp NTT DATA New Talents #3 Java
 
